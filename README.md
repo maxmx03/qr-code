@@ -15,6 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+![Captura de tela 2024-12-12 134937](https://github.com/user-attachments/assets/2530929b-51da-4a6e-9a25-842f0e9a4fe7)
+
 ### Links
 
 - Solution URL: [github-repo](https://github.com/maxmx03/qr-code)
